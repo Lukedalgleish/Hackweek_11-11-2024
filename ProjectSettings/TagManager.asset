@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Traversable
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Solid
+    uniqueID: 2175867383
+    locked: 0
+  - name: Traversable
+    uniqueID: 746074941
+    locked: 0
+  - name: Enemies
+    uniqueID: 2833610165
+    locked: 0
+  - name: Player
+    uniqueID: 1217893053
+    locked: 0
+  - name: BG In front of player
+    uniqueID: 2253654019
+    locked: 0
