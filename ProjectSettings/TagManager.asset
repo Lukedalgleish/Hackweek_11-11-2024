@@ -47,6 +47,9 @@ TagManager:
   - name: Traversable
     uniqueID: 746074941
     locked: 0
+  - name: Interactable
+    uniqueID: 4173707659
+    locked: 0
   - name: Enemies
     uniqueID: 2833610165
     locked: 0
